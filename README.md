@@ -26,3 +26,5 @@ Convenience store management software development to assist store managers and e
   >The ability to edit information and calculate salary for a single employee.
 * Manage Bill:
   >When a customer makes a purchase, the bill will include the product name, quantity, price, total amount and purchase date.
+## IV. Result
+<img width="541" alt="Picture2" src="https://user-images.githubusercontent.com/104005551/182421386-950b80a7-38cd-42f1-a7d9-a76d1ededcb6.png">
